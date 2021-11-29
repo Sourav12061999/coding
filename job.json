@@ -1,0 +1,42 @@
+[
+  {
+    "title": "FullStack Developer",
+    "companyId": "61a496659fc3af2a9032df14",
+    "WFH": false,
+    "Notice": 3,
+    "Rating": 3,
+    "city": "Kolkata"
+  },
+  {
+    "title": "Frontend Developer",
+    "companyId": "61a496659fc3af2a9032df15",
+    "WFH": true,
+    "Notice": 2,
+    "Rating": 3.2,
+    "city": "Delhi"
+  },
+  {
+    "title": "Backend Developer",
+    "companyId": "61a496659fc3af2a9032df16",
+    "WFH": false,
+    "Notice": 1,
+    "Rating": 3.8,
+    "city": "Delhi"
+  },
+  {
+    "title": "Android Developer",
+    "companyId": "61a496659fc3af2a9032df17",
+    "WFH": true,
+    "Notice": 0,
+    "Rating": 4,
+    "city": "Mumbai"
+  },
+  {
+    "title": "Ios Developer",
+    "companyId": "61a496659fc3af2a9032df18",
+    "WFH": false,
+    "Notice": 4,
+    "Rating": 4.5,
+    "city": "Bangalore"
+  }
+]
